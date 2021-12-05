@@ -26,3 +26,12 @@ Depois que todas as pessoas da equipe terminarem o projeto, revisem os passos a 
 ## Links
 
 Tenha certeza de enviar o link do repositório do Github.
+
+
+#Entrega: Trabalhando em equipe com git.
+
+## Fato sobre <Cleyson Sales de Souza>
+
+1. Cleyson Sales de Souza;
+2. Manauara, tenho 24 anos, gamer, gosto de aprender sempre coisas interessantes e cozinheiro;
+3. Eu comecei a me interessar pelo ramo de ti quando passei na faculdade, tenho um visinho e amigo de infancia que seguiu na mesma aerea e eu acabei escutando umas historias dele da profissao e decidi seguir;
